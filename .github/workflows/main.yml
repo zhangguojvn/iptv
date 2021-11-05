@@ -1,0 +1,30 @@
+name: Auto push to gh-pages
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  schedule:
+    - cron:  '2 23 * * *' #update when 7:02(UTC +8)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      MY_SECRET   : ${{secrets.commit_secret}}
+      USER_NAME   : ZHANGGUOJVN
+      USER_EMAIL  : zgj@zgj.email
+    steps:
+      - uses: actions/checkout@v1
+      - name: Setup go
+        uses: actions/setup-go@v2
+      - name: Run
+        run: go run main.go
+      - name: Copy Logo.
+        run: cp -r static/ result/
+      - name: push to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./result

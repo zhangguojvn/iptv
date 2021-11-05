@@ -1,0 +1,76 @@
+{
+    "epg": {
+        "source": "http://epg.51zmt.top:8000/e.xml"
+    },
+    "iptv": {
+        "source": "https://iptv-org.github.io/iptv/channels.json",
+        "map": {
+            "CCTV1": "CCTV-1综合",
+            "CCTV2": "CCTV-2财经",
+            "CCTV3": "CCTV-3综艺",
+            "CCTV4": "CCTV-4中文国际",
+            "CCTV5": "CCTV-5体育",
+            "CCTV5+": "CCTV-5+体育赛事",
+            "CCTV6": "CCTV-6电影",
+            "CCTV7": "CCTV-7国防军事",
+            "CCTV8": "CCTV-8电视剧",
+            "CCTV9": "CCTV-9纪录",
+            "CCTV10": "CCTV-10科教",
+            "CCTV11": "CCTV-11戏曲",
+            "CCTV12": "CCTV-12社会与法制",
+            "CCTV13": "CCTV-13新闻",
+            "CCTV14": "CCTV-14超清",
+            "CCTV15": "CCTV-15音乐",
+            "CCTV17": "CCTV-17农业农村"
+        },
+        "test":{
+            "enable":true,
+            "timeout": 10
+        }
+        
+    },
+    "logo": {
+        "source": "https://zhangguojvn.github.io/iptv/static/tvlogo/"
+    },
+    "groups": [
+        {
+            "name": "cctv",
+            "display_name": "央视",
+            "iptv": {
+                "regex": "^CCTV",
+                "url_type": "domain",
+                "languages": [
+                    {
+                        "code": "zho",
+                        "name": "Chinese"
+                    }
+                ]
+            },
+            "epg": {
+                "regex": "^CCTV"
+            }
+        },
+        {
+            "name": "ws",
+            "display_name": "卫视",
+            "iptv": {
+                "regex": "卫视$",
+                "url_type": "domain"
+            },
+            "epg": {
+                "regex": "卫视$"
+            }
+        },
+        {
+            "name": "fh",
+            "display_name": "凤凰台",
+            "iptv": {
+                "regex": "(鳳凰|凤凰)",
+                "url_type": "domain"
+            },
+            "epg": {
+                "regex": "(鳳凰|凤凰)"
+            }
+        }
+    ]
+}
