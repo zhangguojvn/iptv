@@ -39,8 +39,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV1.png" group-title="央视",CCTV-1综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV1.png" group-title="央视",CCTV-1综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV2.png" group-title="央视",CCTV-2财经
 http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV2.png" group-title="央视",CCTV-2财经
@@ -69,10 +67,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV2.png" group-title="央视",CCTV-2财经
 http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV2.png" group-title="央视",CCTV-2财经
-http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV3.png" group-title="央视",CCTV-3综艺
-http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV3.png" group-title="央视",CCTV-3综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV3.png" group-title="央视",CCTV-3综艺
@@ -203,6 +197,8 @@ http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5.png" group-title="央视",CCTV-5体育
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5.png" group-title="央视",CCTV-5体育
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
@@ -227,8 +223,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV6.png" group-title="央视",CCTV-6电影
-http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV6.png" group-title="央视",CCTV-6电影
 http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV6.png" group-title="央视",CCTV-6电影
@@ -263,8 +257,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV7.png" group-title="央视",CCTV-7国防军事
@@ -417,12 +409,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV11.png" group-title="央视",CCTV-11戏曲
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV12.png" group-title="央视",CCTV-12社会与法制
 http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV12.png" group-title="央视",CCTV-12社会与法制
-http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV12.png" group-title="央视",CCTV-12社会与法制
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV12.png" group-title="央视",CCTV-12社会与法制
@@ -457,8 +445,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV13.png" group-title="央视",CCTV-13新闻
 http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV13.png" group-title="央视",CCTV-13新闻
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV13.png" group-title="央视",CCTV-13新闻
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV13.png" group-title="央视",CCTV-13新闻
