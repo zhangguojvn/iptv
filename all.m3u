@@ -4,7 +4,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV2.png" group-title="央视",CCTV-2财经
 http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV3.png" group-title="央视",CCTV-3综艺
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5.png" group-title="央视",CCTV-5体育
@@ -26,7 +26,7 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV12.png" group-title="央视",CCTV-12社会与法制
 http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV13.png" group-title="央视",CCTV-13新闻
-http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV15.png" group-title="央视",CCTV-15音乐
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV17.png" group-title="央视",CCTV-17农业农村
@@ -104,7 +104,7 @@ http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/康巴卫视.png" group-title="卫视",康巴卫视
 http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="卫视",西藏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/澳亚卫视.png" group-title="卫视",澳亚卫视
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=192&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/凤凰中文.png" group-title="凤凰台",凤凰中文
