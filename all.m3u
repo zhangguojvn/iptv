@@ -4,7 +4,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV2.png" group-title="央视",CCTV-2财经
 http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV3.png" group-title="央视",CCTV-3综艺
-http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5.png" group-title="央视",CCTV-5体育
@@ -20,7 +20,7 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV9.png" group-title="央视",CCTV-9纪录
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV10.png" group-title="央视",CCTV-10科教
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV11.png" group-title="央视",CCTV-11戏曲
 http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV12.png" group-title="央视",CCTV-12社会与法制
