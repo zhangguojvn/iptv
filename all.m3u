@@ -106,7 +106,7 @@ http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/澳亚卫视.png" group-title="卫视",澳亚卫视
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=192&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/凤凰中文.png" group-title="凤凰台",凤凰中文
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/凤凰资讯.png" group-title="凤凰台",凤凰资讯
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/凤凰香港.png" group-title="凤凰台",凤凰香港
