@@ -20,7 +20,7 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV9.png" group-title="央视",CCTV-9纪录
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV10.png" group-title="央视",CCTV-10科教
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV11.png" group-title="央视",CCTV-11戏曲
 http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV12.png" group-title="央视",CCTV-12社会与法制
