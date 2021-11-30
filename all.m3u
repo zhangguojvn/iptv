@@ -75,22 +75,14 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/吉林卫视.png" group-title="卫视",吉林卫视
 http://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山西卫视.png" group-title="卫视",山西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/陕西卫视.png" group-title="卫视",陕西卫视
 http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/四川卫视.png" group-title="卫视",四川卫视
 http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/新疆卫视.png" group-title="卫视",新疆卫视
-http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/云南卫视.png" group-title="卫视",云南卫视
 http://ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/青海卫视.png" group-title="卫视",青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/南方卫视.png" group-title="卫视",南方卫视
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=9&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/兵团卫视.png" group-title="卫视",兵团卫视
