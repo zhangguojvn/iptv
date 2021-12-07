@@ -6,7 +6,7 @@ http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV3.png" group-title="央视",CCTV-3综艺
 http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV4.png" group-title="央视",CCTV-4中文国际
-http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5.png" group-title="央视",CCTV-5体育
 http://ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
