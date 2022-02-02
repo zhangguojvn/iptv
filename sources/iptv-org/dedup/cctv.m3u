@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 CUID="13" tvg-id="13" tvg-name="CCTV-12社会与法制" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-12社会与法制.png" group-title="cctv",CCTV-12社会与法制
-http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 CUID="10" tvg-id="10" tvg-name="CCTV-9纪录" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-9纪录.png" group-title="cctv",CCTV-9纪录
-http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 CUID="7" tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-6电影.png" group-title="cctv",CCTV-6电影
-http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 CUID="CCTVPlus2.cn" tvg-id="CCTVPlus2.cn" tvg-name="CCTV+ 2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV+ 2.png" group-title="cctv",CCTV+ 2
+#EXTINF:-1 CUID="CCTVPlus2.cn" tvg-id="CCTVPlus2.cn" tvg-chno="CCTVPlus2.cn" tvg-name="CCTV+ 2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV+ 2.png" group-title="cctv",CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 CUID="17" tvg-id="17" tvg-name="CCTV-17农业农村" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-17农业农村.png" group-title="cctv",CCTV-17农业农村
-http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 CUID="14" tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13新闻.png" group-title="cctv",CCTV-13新闻
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 CUID="6" tvg-id="6" tvg-name="CCTV-5+体育赛事" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-5+体育赛事.png" group-title="cctv",CCTV-5+体育赛事
-http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 CUID="CCTVLaoGuShi.cn" tvg-id="CCTVLaoGuShi.cn" tvg-name="CCTV-老故事" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-老故事.png" group-title="cctv",CCTV-老故事
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-#EXTINF:-1 CUID="4" tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-4中文国际.png" group-title="cctv",CCTV-4中文国际
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 CUID="12" tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-11戏曲.png" group-title="cctv",CCTV-11戏曲
-http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 CUID="11" tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-10科教.png" group-title="cctv",CCTV-10科教
-http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 CUID="3" tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3综艺.png" group-title="cctv",CCTV-3综艺
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 CUID="1" tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-1综合.png" group-title="cctv",CCTV-1综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 CUID="9" tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-8电视剧.png" group-title="cctv",CCTV-8电视剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
-#EXTINF:-1 CUID="8" tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-7国防军事.png" group-title="cctv",CCTV-7国防军事
-http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 CUID="2" tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-2财经.png" group-title="cctv",CCTV-2财经
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 CUID="CCTVPlus1.cn" tvg-id="CCTVPlus1.cn" tvg-name="CCTV+ 1" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV+ 1.png" group-title="cctv",CCTV+ 1
+#EXTINF:-1 CUID="CCTVPlus1.cn" tvg-id="CCTVPlus1.cn" tvg-chno="CCTVPlus1.cn" tvg-name="CCTV+ 1" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV+ 1.png" group-title="cctv",CCTV+ 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 CUID="5" tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-5体育.png" group-title="cctv",CCTV-5体育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 CUID="CCTVNuXingShiShang.cn" tvg-id="CCTVNuXingShiShang.cn" tvg-name="CCTV-女性时尚" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-女性时尚.png" group-title="cctv",CCTV-女性时尚
+#EXTINF:-1 CUID="CCTVNuXingShiShang.cn" tvg-id="CCTVNuXingShiShang.cn" tvg-chno="CCTVNuXingShiShang.cn" tvg-name="CCTV-女性时尚" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-女性时尚.png" group-title="cctv",CCTV-女性时尚
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 CUID="CCTVLaoGuShi.cn" tvg-id="CCTVLaoGuShi.cn" tvg-chno="CCTVLaoGuShi.cn" tvg-name="CCTV-老故事" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-老故事.png" group-title="cctv",CCTV-老故事
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 CUID="9" tvg-id="9" tvg-chno="9" tvg-name="CCTV-8电视剧" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-8电视剧.png" group-title="cctv",CCTV-8电视剧
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 CUID="8" tvg-id="8" tvg-chno="8" tvg-name="CCTV-7国防军事" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-7国防军事.png" group-title="cctv",CCTV-7国防军事
+http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 CUID="7" tvg-id="7" tvg-chno="7" tvg-name="CCTV-6电影" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-6电影.png" group-title="cctv",CCTV-6电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 CUID="6" tvg-id="6" tvg-chno="6" tvg-name="CCTV-5+体育赛事" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-5+体育赛事.png" group-title="cctv",CCTV-5+体育赛事
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 CUID="5" tvg-id="5" tvg-chno="5" tvg-name="CCTV-5体育" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-5体育.png" group-title="cctv",CCTV-5体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 CUID="4" tvg-id="4" tvg-chno="4" tvg-name="CCTV-4中文国际" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-4中文国际.png" group-title="cctv",CCTV-4中文国际
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3综艺" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3综艺.png" group-title="cctv",CCTV-3综艺
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 CUID="2" tvg-id="2" tvg-chno="2" tvg-name="CCTV-2财经" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-2财经.png" group-title="cctv",CCTV-2财经
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 CUID="17" tvg-id="17" tvg-chno="17" tvg-name="CCTV-17农业农村" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-17农业农村.png" group-title="cctv",CCTV-17农业农村
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13新闻" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13新闻.png" group-title="cctv",CCTV-13新闻
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 CUID="13" tvg-id="13" tvg-chno="13" tvg-name="CCTV-12社会与法制" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-12社会与法制.png" group-title="cctv",CCTV-12社会与法制
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 CUID="12" tvg-id="12" tvg-chno="12" tvg-name="CCTV-11戏曲" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-11戏曲.png" group-title="cctv",CCTV-11戏曲
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 CUID="11" tvg-id="11" tvg-chno="11" tvg-name="CCTV-10科教" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-10科教.png" group-title="cctv",CCTV-10科教
+http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 CUID="10" tvg-id="10" tvg-chno="10" tvg-name="CCTV-9纪录" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-9纪录.png" group-title="cctv",CCTV-9纪录
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 CUID="1" tvg-id="1" tvg-chno="1" tvg-name="CCTV-1综合" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-1综合.png" group-title="cctv",CCTV-1综合
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
