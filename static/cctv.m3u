@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5体育" tvg-logo="" group-title="cctv",CCTV-5体育
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12社会与法制" tvg-logo="" group-title="cctv",CCTV-12社会与法制
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="cctv",CCTV-16奧林匹克
+http://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="" group-title="cctv",CCTV-1综合
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10科教" tvg-logo="" group-title="cctv",CCTV-10科教
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17农业农村" tvg-logo="" group-title="cctv",CCTV-17农业农村
+http://cctvalih5ca.v.myalicdn.com/live/cctv18_2/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6电影" tvg-logo="" group-title="cctv",CCTV-6电影
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4中文国际" tvg-logo="" group-title="cctv",CCTV-4中文国际
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="" group-title="cctv",CCTV-3综艺
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7国防军事" tvg-logo="" group-title="cctv",CCTV-7国防军事
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8电视剧" tvg-logo="" group-title="cctv",CCTV-8电视剧
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11戏曲" tvg-logo="" group-title="cctv",CCTV-11戏曲
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13新闻" tvg-logo="" group-title="cctv",CCTV-13新闻
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15音乐" tvg-logo="" group-title="cctv",CCTV-15音乐
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2财经" tvg-logo="" group-title="cctv",CCTV-2财经
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
