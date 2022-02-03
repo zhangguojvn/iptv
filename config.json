@@ -1,76 +1,195 @@
 {
-    "epg": {
-        "source": "http://epg.51zmt.top:8000/e.xml"
-    },
-    "iptv": {
-        "source": "https://iptv-org.github.io/iptv/channels.json",
-        "map": {
-            "CCTV1": "CCTV-1综合",
-            "CCTV2": "CCTV-2财经",
-            "CCTV3": "CCTV-3综艺",
-            "CCTV4": "CCTV-4中文国际",
-            "CCTV5": "CCTV-5体育",
-            "CCTV5+": "CCTV-5+体育赛事",
-            "CCTV6": "CCTV-6电影",
-            "CCTV7": "CCTV-7国防军事",
-            "CCTV8": "CCTV-8电视剧",
-            "CCTV9": "CCTV-9纪录",
-            "CCTV10": "CCTV-10科教",
-            "CCTV11": "CCTV-11戏曲",
-            "CCTV12": "CCTV-12社会与法制",
-            "CCTV13": "CCTV-13新闻",
-            "CCTV14": "CCTV-14超清",
-            "CCTV15": "CCTV-15音乐",
-            "CCTV17": "CCTV-17农业农村"
-        },
-        "test":{
-            "enable":true,
-            "timeout": 10
-        }
-        
-    },
-    "logo": {
-        "source": "https://zhangguojvn.github.io/iptv/static/tvlogo/"
-    },
-    "groups": [
+    "proxy": "",
+    "sources": [
         {
-            "name": "cctv",
-            "display_name": "央视",
-            "iptv": {
-                "regex": "^CCTV",
-                "url_type": "domain",
-                "languages": [
-                    {
-                        "code": "zho",
-                        "name": "Chinese"
+            "name": "static",
+            "config": {
+                "default":{
+                    "CCTV-1": "http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8",
+                    "CCTV-2": "http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8",
+                    "CCTV-3": "http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8",
+                    "CCTV-4": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
+                    "CCTV-5": "http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8",
+                    "CCTV-6": "http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8",
+                    "CCTV-7": "http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8",
+                    "CCTV-8": "http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8",
+                    "CCTV-9":"http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8",
+                    "CCTV-10": "http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8",
+                    "CCTV-11": "http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8",
+                    "CCTV-12": "http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8",
+                    "CCTV-13": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
+                    "CCTV-15": "http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8",
+                    "CCTV-16": "http://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8",
+                    "CCTV-17": "http://cctvalih5ca.v.myalicdn.com/live/cctv18_2/index.m3u8"
+                }
+            },
+            "groups": [
+                {
+                    "name": "cctv",
+                    "display_name": "央视",
+                    "field": {
+                        "sources": {
+                            "regex": "^CCTV"
+                        },
+                        "epg": {
+                            "regex": "^CCTV"
+                        }
                     }
-                ]
+                }
+            ],
+            "dedup": false,
+            "test": {
+                "enable": false,
+                "timeout": 10
+            },
+            "logo": {
+                "url": "https://zhangguojvn.github.io/iptv/static/tvlogo/{{.Name}}.png",
+                "config": {
+                    "link": {
+                        "CCTV-1综合": "https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-1综合.png"
+                    }
+                }
             },
             "epg": {
-                "regex": "^CCTV"
+                "url": "http://epg.51zmt.top:8000/e.xml",
+                "config": {
+                    "rename": {
+                        "CCTV1": "CCTV-1",
+                        "CCTV2": "CCTV-2",
+                        "CCTV3": "CCTV-3",
+                        "CCTV4": "CCTV-4",
+                        "CCTV5": "CCTV-5",
+                        "CCTV5+": "CCTV-5+",
+                        "CCTV6": "CCTV-6",
+                        "CCTV7": "CCTV-7",
+                        "CCTV8": "CCTV-8",
+                        "CCTV9": "CCTV-9",
+                        "CCTV10": "CCTV-10",
+                        "CCTV11": "CCTV-11",
+                        "CCTV12": "CCTV-12",
+                        "CCTV13": "CCTV-13",
+                        "CCTV14": "CCTV-14",
+                        "CCTV15": "CCTV-15",
+                        "CCTV16":"CCTV-16",
+                        "CCTV17": "CCTV-17"
+                    }
+                }
             }
         },
         {
-            "name": "ws",
-            "display_name": "卫视",
-            "iptv": {
-                "regex": "卫视$",
-                "url_type": "domain"
+            "name": "iptv-org",
+            "url": "https://iptv-org.github.io/iptv/channels.json",
+            "config": {
+                "rename": {
+                    "CCTV-1综合": "CCTV-1",
+                    "CCTV-2财经": "CCTV-2",
+                    "CCTV-3综艺": "CCTV-3",
+                    "CCTV-4中文国际": "CCTV-4",
+                    "CCTV-5体育": "CCTV-5",
+                    "CCTV-5+体育赛事": "CCTV-5+",
+                    "CCTV-6电影": "CCTV-6",
+                    "CCTV-7国防军事": "CCTV-7",
+                    "CCTV-8电视剧": "CCTV-8",
+                    "CCTV-9纪录": "CCTV-9",
+                    "CCTV-10科教": "CCTV-10",
+                    "CCTV-11戏曲": "CCTV-11",
+                    "CCTV-12社会与法制": "CCTV-12",
+                    "CCTV-13新闻": "CCTV-13",
+                    "CCTV-14超清": "CCTV-14",
+                    "CCTV-15音乐": "CCTV-15",
+                    "CCTV-17农业农村": "CCTV-17"
+                },
+                "default":{
+                    "CCTV-1": "http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8",
+                    "CCTV-2": "http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8",
+                    "CCTV-3": "http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8",
+                    "CCTV-4": "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8",
+                    "CCTV-5": "http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8",
+                    "CCTV-6": "http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8",
+                    "CCTV-7": "http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8",
+                    "CCTV-8": "http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8",
+                    "CCTV-9":"http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8",
+                    "CCTV-10": "http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8",
+                    "CCTV-11": "http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8",
+                    "CCTV-12": "http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8",
+                    "CCTV-13": "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8",
+                    "CCTV-15": "http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8",
+                    "CCTV-16": "http://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8",
+                    "CCTV-17": "http://cctvalih5ca.v.myalicdn.com/live/cctv18_2/index.m3u8"
+                }
+            },
+            "dedup": true,
+            "test": {
+                "enable": true,
+                "timeout": 10
+            },
+            "logo": {
+                "url": "https://zhangguojvn.github.io/iptv/static/tvlogo/{{.Name}}.png",
+                "config": {
+                    "link": {
+                        "CCTV-1综合": "https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-1综合.png"
+                    }
+                }
             },
             "epg": {
-                "regex": "卫视$"
-            }
-        },
-        {
-            "name": "fh",
-            "display_name": "凤凰台",
-            "iptv": {
-                "regex": "(鳳凰|凤凰)",
-                "url_type": "domain"
+                "url": "http://epg.51zmt.top:8000/e.xml",
+                "config": {
+                    "rename": {
+                        "CCTV1": "CCTV-1",
+                        "CCTV2": "CCTV-2",
+                        "CCTV3": "CCTV-3",
+                        "CCTV4": "CCTV-4",
+                        "CCTV5": "CCTV-5",
+                        "CCTV5+": "CCTV-5+",
+                        "CCTV6": "CCTV-6",
+                        "CCTV7": "CCTV-7",
+                        "CCTV8": "CCTV-8",
+                        "CCTV9": "CCTV-9",
+                        "CCTV10": "CCTV-10",
+                        "CCTV11": "CCTV-11",
+                        "CCTV12": "CCTV-12",
+                        "CCTV13": "CCTV-13",
+                        "CCTV14": "CCTV-14",
+                        "CCTV15": "CCTV-15",
+                        "CCTV17": "CCTV-17"
+                    }
+                }
             },
-            "epg": {
-                "regex": "(鳳凰|凤凰)"
-            }
+            "groups": [
+                {
+                    "name": "cctv",
+                    "display_name": "央视",
+                    "field": {
+                        "sources": {
+                            "regex": "^CCTV",
+                            "url_type": "domain",
+                            "url_keyword":"myalicdn",
+                            "languages": [
+                                {
+                                    "code": "zho",
+                                    "name": "Chinese"
+                                }
+                            ]
+                        },
+                        "epg": {
+                            "regex": "^CCTV"
+                        }
+                    }
+                },
+                {
+                    "name": "ws",
+                    "display_name": "卫视",
+                    "field": {
+                        "sources": {
+                            "regex": "卫视$",
+                            "url_type": "domain"
+                        },
+                        "epg": {
+                            "regex": "卫视$"
+                        }
+                    }
+                }
+            ]
         }
     ]
 }
