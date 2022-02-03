@@ -160,6 +160,8 @@ http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
 #EXTINF:-1 CUID="7" tvg-id="7" tvg-chno="7" tvg-name="CCTV-6" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-6.png" group-title="cctv",CCTV-6
 http://223.110.245.173/PLTV/3/224/3221225548/index.m3u8
 #EXTINF:-1 CUID="7" tvg-id="7" tvg-chno="7" tvg-name="CCTV-6" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-6.png" group-title="cctv",CCTV-6
+http://112.25.48.68/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 CUID="7" tvg-id="7" tvg-chno="7" tvg-name="CCTV-6" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-6.png" group-title="cctv",CCTV-6
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv6/HD-2500k-1080P-cctv6
 #EXTINF:-1 CUID="8" tvg-id="8" tvg-chno="8" tvg-name="CCTV-7" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-7.png" group-title="cctv",CCTV-7
 http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
