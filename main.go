@@ -11,6 +11,7 @@ import (
 	"net/url"
 	"os"
 
+	_ "iptv/sources/ifengcom"
 	_ "iptv/sources/iptvorg"
 	_ "iptv/sources/static"
 )

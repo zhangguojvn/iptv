@@ -1,8 +1,8 @@
 package iptvorg_test
 
 import (
-	"iptv/channels/iptvorg"
 	"iptv/common/config"
+	"iptv/sources/iptvorg"
 	"net/http"
 	"net/url"
 	"testing"

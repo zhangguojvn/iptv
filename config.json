@@ -190,6 +190,45 @@
                     }
                 }
             ]
+        },
+        {
+            "name": "ifengcom",
+            "url": "https://phtv.ifeng.com/live?channel=phtvChinese",
+            "config": {
+                "rename": {
+                    "phtvNews": "凤凰资讯",
+                    "phtvChinese": "凤凰中文"
+                },
+                "crawler":{
+                    "jsregex":"^https://x2\\.ifengimg\\.com/fe/shank/channel/vendors\\..*\\.js",
+                    "m3uregex":"^.*:\"http://.*\\.m3u8\"$"
+                }
+            },
+            "dedup": true,
+            "test": {
+                "enable": true,
+                "timeout": 10
+            },
+            "logo": {
+                "url": "https://zhangguojvn.github.io/iptv/static/tvlogo/{{.Name}}.png"
+            },
+            "epg": {
+                "url": "http://epg.51zmt.top:8000/e.xml"
+            },
+            "groups": [
+                {
+                    "name": "fh",
+                    "display_name": "凤凰卫视",
+                    "field": {
+                        "sources": {
+                            "regex": "^凤凰(资讯|中文)"
+                        },
+                        "epg": {
+                            "regex": "^凤凰(资讯|中文)"
+                        }
+                    }
+                }
+            ]
         }
     ]
 }
