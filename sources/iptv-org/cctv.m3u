@@ -96,8 +96,6 @@ http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 CUID="4" tvg-id="4" tvg-chno="4" tvg-name="CCTV-4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-4.png" group-title="cctv",CCTV-4
 https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 #EXTINF:-1 CUID="4" tvg-id="4" tvg-chno="4" tvg-name="CCTV-4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-4.png" group-title="cctv",CCTV-4
-https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-#EXTINF:-1 CUID="4" tvg-id="4" tvg-chno="4" tvg-name="CCTV-4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-4.png" group-title="cctv",CCTV-4
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 CUID="4" tvg-id="4" tvg-chno="4" tvg-name="CCTV-4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-4.png" group-title="cctv",CCTV-4
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=26&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
@@ -304,11 +302,11 @@ http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
 #EXTINF:-1 CUID="13" tvg-id="13" tvg-chno="13" tvg-name="CCTV-12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-12.png" group-title="cctv",CCTV-12
 http://112.25.48.68/live/program/live/cctv12/1300000/mnf.m3u8
 #EXTINF:-1 CUID="13" tvg-id="13" tvg-chno="13" tvg-name="CCTV-12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-12.png" group-title="cctv",CCTV-12
-http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
-#EXTINF:-1 CUID="13" tvg-id="13" tvg-chno="13" tvg-name="CCTV-12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-12.png" group-title="cctv",CCTV-12
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=34&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 CUID="13" tvg-id="13" tvg-chno="13" tvg-name="CCTV-12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-12.png" group-title="cctv",CCTV-12
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=34&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
@@ -322,15 +320,9 @@ http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
 http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
-http://stream4.jlntv.cn/cctv13/sd/live.m3u8
-#EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
 http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
-http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
-#EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
 http://223.110.245.170/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=64&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 CUID="17" tvg-id="17" tvg-chno="17" tvg-name="CCTV-17" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-17.png" group-title="cctv",CCTV-17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 CUID="17" tvg-id="17" tvg-chno="17" tvg-name="CCTV-17" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-17.png" group-title="cctv",CCTV-17

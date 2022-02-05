@@ -26,7 +26,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 CUID="13" tvg-id="13" tvg-chno="13" tvg-name="CCTV-12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-12.png" group-title="cctv",CCTV-12
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 CUID="17" tvg-id="17" tvg-chno="17" tvg-name="CCTV-17" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-17.png" group-title="cctv",CCTV-17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 CUID="CCTVLaoGuShi.cn" tvg-id="CCTVLaoGuShi.cn" tvg-chno="CCTVLaoGuShi.cn" tvg-name="CCTV-老故事" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-老故事.png" group-title="cctv",CCTV-老故事

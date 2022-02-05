@@ -26,7 +26,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 CUID="13" tvg-id="13" tvg-chno="13" tvg-name="CCTV-12" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-12.png" group-title="cctv",CCTV-12
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 CUID="17" tvg-id="17" tvg-chno="17" tvg-name="CCTV-17" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-17.png" group-title="cctv",CCTV-17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 CUID="CCTVLaoGuShi.cn" tvg-id="CCTVLaoGuShi.cn" tvg-chno="CCTVLaoGuShi.cn" tvg-name="CCTV-老故事" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-老故事.png" group-title="cctv",CCTV-老故事
@@ -80,7 +80,7 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227377/index.m3u8
 #EXTINF:-1 CUID="50" tvg-id="50" tvg-chno="50" tvg-name="江西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江西卫视.png" group-title="ws",江西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 CUID="51" tvg-id="51" tvg-chno="51" tvg-name="吉林卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/吉林卫视.png" group-title="ws",吉林卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 CUID="52" tvg-id="52" tvg-chno="52" tvg-name="内蒙古卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/内蒙古卫视.png" group-title="ws",内蒙古卫视
 http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
 #EXTINF:-1 CUID="53" tvg-id="53" tvg-chno="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="ws",宁夏卫视
@@ -106,9 +106,7 @@ http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 CUID="70" tvg-id="70" tvg-chno="70" tvg-name="康巴卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/康巴卫视.png" group-title="ws",康巴卫视
 http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
-http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
-#EXTINF:-1 CUID="HaHaXuanDong.cn" tvg-id="HaHaXuanDong.cn" tvg-chno="HaHaXuanDong.cn" tvg-name="哈哈炫动卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/哈哈炫动卫视.png" group-title="ws",哈哈炫动卫视
-http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 CUID="HaiNanWeiShi.cn" tvg-id="HaiNanWeiShi.cn" tvg-chno="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/海南卫视.png" group-title="ws",海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:-1 CUID="HeiLongWeiShi.cn" tvg-id="HeiLongWeiShi.cn" tvg-chno="HeiLongWeiShi.cn" tvg-name="黑龙卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/黑龙卫视.png" group-title="ws",黑龙卫视
