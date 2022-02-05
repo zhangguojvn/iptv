@@ -56,8 +56,6 @@ http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSession
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
-http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8
-#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://117.169.120.140:8080/live/cctv-3/.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv3/HD-2500k-1080P-cctv3
@@ -111,8 +109,6 @@ http://hbry.chinashadt.com:1938/live/1004.stream_360p/playlist.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 CUID="5" tvg-id="5" tvg-chno="5" tvg-name="CCTV-5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-5.png" group-title="cctv",CCTV-5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 CUID="5" tvg-id="5" tvg-chno="5" tvg-name="CCTV-5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-5.png" group-title="cctv",CCTV-5
-http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 CUID="5" tvg-id="5" tvg-chno="5" tvg-name="CCTV-5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-5.png" group-title="cctv",CCTV-5
 http://183.207.248.71/cntv/live1/cctv-5/cctv-5
 #EXTINF:-1 CUID="5" tvg-id="5" tvg-chno="5" tvg-name="CCTV-5" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-5.png" group-title="cctv",CCTV-5
@@ -319,8 +315,6 @@ http://183.207.248.71/cntv/live1/cctv-13/cctv-13
 http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
 http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
-#EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
-http://112.25.48.68/live/program/live/cctvxw/1300000/mnf.m3u8
 #EXTINF:-1 CUID="14" tvg-id="14" tvg-chno="14" tvg-name="CCTV-13" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-13.png" group-title="cctv",CCTV-13
 http://223.110.245.170/PLTV/3/224/3221225560/index.m3u8
 #EXTINF:-1 CUID="17" tvg-id="17" tvg-chno="17" tvg-name="CCTV-17" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-17.png" group-title="cctv",CCTV-17
