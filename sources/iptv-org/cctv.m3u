@@ -58,8 +58,6 @@ http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSession
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
-http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8
-#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://117.169.120.140:8080/live/cctv-3/.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv3/HD-2500k-1080P-cctv3
