@@ -33,8 +33,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
 http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8
 #EXTINF:-1 CUID="46" tvg-id="46" tvg-chno="46" tvg-name="黑龙江卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/黑龙江卫视.png" group-title="ws",黑龙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 CUID="47" tvg-id="47" tvg-chno="47" tvg-name="河南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/河南卫视.png" group-title="ws",河南卫视
-http://112.25.48.68/live/program/live/hnws/1300000/mnf.m3u8
 #EXTINF:-1 CUID="48" tvg-id="48" tvg-chno="48" tvg-name="湖北卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/湖北卫视.png" group-title="ws",湖北卫视
 http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1 CUID="50" tvg-id="50" tvg-chno="50" tvg-name="江西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江西卫视.png" group-title="ws",江西卫视
@@ -67,8 +65,6 @@ http://112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8
 http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
 #EXTINF:-1 CUID="BeiJingWeiShi.cn" tvg-id="BeiJingWeiShi.cn" tvg-chno="BeiJingWeiShi.cn" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 CUID="HaHaXuanDong.cn" tvg-id="HaHaXuanDong.cn" tvg-chno="HaHaXuanDong.cn" tvg-name="哈哈炫动卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/哈哈炫动卫视.png" group-title="ws",哈哈炫动卫视
-http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 CUID="HaiNanWeiShi.cn" tvg-id="HaiNanWeiShi.cn" tvg-chno="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/海南卫视.png" group-title="ws",海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:-1 CUID="MeiGuoYaMeiWeiShi.cn" tvg-id="MeiGuoYaMeiWeiShi.cn" tvg-chno="MeiGuoYaMeiWeiShi.cn" tvg-name="美国亚美卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/美国亚美卫视.png" group-title="ws",美国亚美卫视
