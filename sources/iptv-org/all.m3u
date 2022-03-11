@@ -38,6 +38,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 CUID="2" tvg-id="2" tvg-chno="2" tvg-name="CCTV-2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-2.png" group-title="cctv",CCTV-2
 http://112.25.48.68/live/program/live/cctv2/1300000/mnf.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
+http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
+#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
@@ -46,11 +48,7 @@ http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSession
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
-http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8
-#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://117.169.120.140:8080/live/cctv-3/.m3u8
-#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv3/HD-2500k-1080P-cctv3
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://183.207.249.5/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
@@ -59,10 +57,6 @@ http://183.207.249.6/PLTV/3/224/3221225588/index.m3u8
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://183.207.249.35/PLTV/4/224/3221227295/index.m3u8
-#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
-http://183.207.248.71/cntv/live1/cctv-3/cctv-3
-#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
-http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 #EXTINF:-1 CUID="4" tvg-id="4" tvg-chno="4" tvg-name="CCTV-4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-4.png" group-title="cctv",CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 CUID="4" tvg-id="4" tvg-chno="4" tvg-name="CCTV-4" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-4.png" group-title="cctv",CCTV-4
@@ -391,6 +385,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
 #EXTINF:-1 CUID="42" tvg-id="42" tvg-chno="42" tvg-name="甘肃卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/甘肃卫视.png" group-title="ws",甘肃卫视
 http://117.169.120.140:8080/live/gansustv/.m3u8
+#EXTINF:-1 CUID="42" tvg-id="42" tvg-chno="42" tvg-name="甘肃卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/甘肃卫视.png" group-title="ws",甘肃卫视
+http://183.207.248.71/gitv/live1/G_GANSU/G_GANSU
 #EXTINF:-1 CUID="43" tvg-id="43" tvg-chno="43" tvg-name="广西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/广西卫视.png" group-title="ws",广西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 CUID="44" tvg-id="44" tvg-chno="44" tvg-name="贵州卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/贵州卫视.png" group-title="ws",贵州卫视
@@ -479,8 +475,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 CUID="63" tvg-id="63" tvg-chno="63" tvg-name="延边卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/延边卫视.png" group-title="ws",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
-http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
