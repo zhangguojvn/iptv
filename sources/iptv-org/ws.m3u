@@ -173,8 +173,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 http://117.169.120.140:8080/live/ningxiastv/.m3u8
 #EXTINF:-1 CUID="53" tvg-id="53" tvg-chno="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="ws",宁夏卫视
 http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
-#EXTINF:-1 CUID="53" tvg-id="53" tvg-chno="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="ws",宁夏卫视
-http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
 #EXTINF:-1 CUID="54" tvg-id="54" tvg-chno="54" tvg-name="山西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山西卫视.png" group-title="ws",山西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 CUID="54" tvg-id="54" tvg-chno="54" tvg-name="山西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山西卫视.png" group-title="ws",山西卫视
@@ -195,8 +193,6 @@ http://183.207.249.15/PLTV/3/224/3221225523/index.m3u8
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 CUID="58" tvg-id="58" tvg-chno="58" tvg-name="云南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/云南卫视.png" group-title="ws",云南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
-#EXTINF:-1 CUID="58" tvg-id="58" tvg-chno="58" tvg-name="云南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/云南卫视.png" group-title="ws",云南卫视
-http://183.207.248.71/gitv/live1/G_YUNNAN/G_YUNNAN
 #EXTINF:-1 CUID="59" tvg-id="59" tvg-chno="59" tvg-name="青海卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/青海卫视.png" group-title="ws",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 CUID="59" tvg-id="59" tvg-chno="59" tvg-name="青海卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/青海卫视.png" group-title="ws",青海卫视
