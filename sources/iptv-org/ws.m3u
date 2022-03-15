@@ -50,7 +50,11 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1 CUID="32" tvg-id="32" tvg-chno="32" tvg-name="安徽卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/安徽卫视.png" group-title="ws",安徽卫视
 http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
 #EXTINF:-1 CUID="32" tvg-id="32" tvg-chno="32" tvg-name="安徽卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/安徽卫视.png" group-title="ws",安徽卫视
+http://183.207.248.71/gitv/live1/AHWS/AHWS
+#EXTINF:-1 CUID="32" tvg-id="32" tvg-chno="32" tvg-name="安徽卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/安徽卫视.png" group-title="ws",安徽卫视
 http://183.207.249.5/PLTV/4/224/3221225800/index.m3u8
+#EXTINF:-1 CUID="32" tvg-id="32" tvg-chno="32" tvg-name="安徽卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/安徽卫视.png" group-title="ws",安徽卫视
+http://183.207.248.71/cntv/live1/anhuistv/anhuistv
 #EXTINF:-1 CUID="33" tvg-id="33" tvg-chno="33" tvg-name="广东卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/广东卫视.png" group-title="ws",广东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1 CUID="33" tvg-id="33" tvg-chno="33" tvg-name="广东卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/广东卫视.png" group-title="ws",广东卫视
@@ -113,6 +117,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
 #EXTINF:-1 CUID="42" tvg-id="42" tvg-chno="42" tvg-name="甘肃卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/甘肃卫视.png" group-title="ws",甘肃卫视
 http://117.169.120.140:8080/live/gansustv/.m3u8
+#EXTINF:-1 CUID="42" tvg-id="42" tvg-chno="42" tvg-name="甘肃卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/甘肃卫视.png" group-title="ws",甘肃卫视
+http://183.207.248.71/gitv/live1/G_GANSU/G_GANSU
 #EXTINF:-1 CUID="43" tvg-id="43" tvg-chno="43" tvg-name="广西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/广西卫视.png" group-title="ws",广西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 CUID="44" tvg-id="44" tvg-chno="44" tvg-name="贵州卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/贵州卫视.png" group-title="ws",贵州卫视
@@ -148,8 +154,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 CUID="50" tvg-id="50" tvg-chno="50" tvg-name="江西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江西卫视.png" group-title="ws",江西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 #EXTINF:-1 CUID="50" tvg-id="50" tvg-chno="50" tvg-name="江西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江西卫视.png" group-title="ws",江西卫视
-http://183.207.248.71/cntv/live1/jiangxistv/jiangxistv
-#EXTINF:-1 CUID="50" tvg-id="50" tvg-chno="50" tvg-name="江西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江西卫视.png" group-title="ws",江西卫视
 http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8
 #EXTINF:-1 CUID="50" tvg-id="50" tvg-chno="50" tvg-name="江西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江西卫视.png" group-title="ws",江西卫视
 http://117.169.120.140:8080/live/jiangxistv/.m3u8
@@ -169,6 +173,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 CUID="52" tvg-id="52" tvg-chno="52" tvg-name="内蒙古卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/内蒙古卫视.png" group-title="ws",内蒙古卫视
 http://117.169.120.140:8080/live/neimenggustv/.m3u8
+#EXTINF:-1 CUID="52" tvg-id="52" tvg-chno="52" tvg-name="内蒙古卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/内蒙古卫视.png" group-title="ws",内蒙古卫视
+http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
 #EXTINF:-1 CUID="53" tvg-id="53" tvg-chno="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="ws",宁夏卫视
 http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8
 #EXTINF:-1 CUID="53" tvg-id="53" tvg-chno="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="ws",宁夏卫视
@@ -177,8 +183,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 http://117.169.120.140:8080/live/ningxiastv/.m3u8
 #EXTINF:-1 CUID="53" tvg-id="53" tvg-chno="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="ws",宁夏卫视
 http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
-#EXTINF:-1 CUID="53" tvg-id="53" tvg-chno="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="ws",宁夏卫视
-http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
 #EXTINF:-1 CUID="54" tvg-id="54" tvg-chno="54" tvg-name="山西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山西卫视.png" group-title="ws",山西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 CUID="54" tvg-id="54" tvg-chno="54" tvg-name="山西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山西卫视.png" group-title="ws",山西卫视
