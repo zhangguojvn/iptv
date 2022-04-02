@@ -33,6 +33,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 CUID="CCTVPlus2.cn" tvg-id="CCTVPlus2.cn" tvg-chno="CCTVPlus2.cn" tvg-name="CCTV+ 2" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV+ 2.png" group-title="cctv",CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 CUID="27" tvg-id="27" tvg-chno="27" tvg-name="湖南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/湖南卫视.png" group-title="ws",湖南卫视
+http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
 #EXTINF:-1 CUID="28" tvg-id="28" tvg-chno="28" tvg-name="浙江卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/浙江卫视.png" group-title="ws",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 CUID="29" tvg-id="29" tvg-chno="29" tvg-name="江苏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江苏卫视.png" group-title="ws",江苏卫视
@@ -59,6 +61,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 CUID="42" tvg-id="42" tvg-chno="42" tvg-name="甘肃卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/甘肃卫视.png" group-title="ws",甘肃卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 CUID="43" tvg-id="43" tvg-chno="43" tvg-name="广西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/广西卫视.png" group-title="ws",广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 CUID="44" tvg-id="44" tvg-chno="44" tvg-name="贵州卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/贵州卫视.png" group-title="ws",贵州卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 CUID="45" tvg-id="45" tvg-chno="45" tvg-name="河北卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/河北卫视.png" group-title="ws",河北卫视
@@ -93,13 +97,9 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
 #EXTINF:-1 CUID="476" tvg-id="476" tvg-chno="476" tvg-name="澳亚卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/澳亚卫视.png" group-title="ws",澳亚卫视
 http://live.mastvnet.com/4rlff1m/live.m3u8
-#EXTINF:-1 CUID="GuangXiWeiShi.cn" tvg-id="GuangXiWeiShi.cn" tvg-chno="GuangXiWeiShi.cn" tvg-name="广西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/广西卫视.png" group-title="ws",广西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 CUID="HaHaXuanDong.cn" tvg-id="HaHaXuanDong.cn" tvg-chno="HaHaXuanDong.cn" tvg-name="哈哈炫动卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/哈哈炫动卫视.png" group-title="ws",哈哈炫动卫视
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 CUID="HaiNanWeiShi.cn" tvg-id="HaiNanWeiShi.cn" tvg-chno="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/海南卫视.png" group-title="ws",海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
-#EXTINF:-1 CUID="HuNanWeiShi.cn" tvg-id="HuNanWeiShi.cn" tvg-chno="HuNanWeiShi.cn" tvg-name="湖南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/湖南卫视.png" group-title="ws",湖南卫视
-http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
 #EXTINF:-1 CUID="MeiGuoYaMeiWeiShi.cn" tvg-id="MeiGuoYaMeiWeiShi.cn" tvg-chno="MeiGuoYaMeiWeiShi.cn" tvg-name="美国亚美卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/美国亚美卫视.png" group-title="ws",美国亚美卫视
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
