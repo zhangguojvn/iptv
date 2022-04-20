@@ -198,8 +198,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 CUID="63" tvg-id="63" tvg-chno="63" tvg-name="延边卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/延边卫视.png" group-title="ws",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
-http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
-#EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
 http://117.169.120.140:8080/live/xizangstv/.m3u8
@@ -215,8 +213,6 @@ http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e744
 http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 CUID="HaiNanWeiShi.cn" tvg-id="HaiNanWeiShi.cn" tvg-chno="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/海南卫视.png" group-title="ws",海南卫视
 http://183.207.248.11/PLTV/4/224/3221225810/index.m3u8
-#EXTINF:-1 CUID="MeiGuoYaMeiWeiShi.cn" tvg-id="MeiGuoYaMeiWeiShi.cn" tvg-chno="MeiGuoYaMeiWeiShi.cn" tvg-name="美国亚美卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/美国亚美卫视.png" group-title="ws",美国亚美卫视
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 CUID="NeiMengWeiShi.cn" tvg-id="NeiMengWeiShi.cn" tvg-chno="NeiMengWeiShi.cn" tvg-name="内蒙卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/内蒙卫视.png" group-title="ws",内蒙卫视
 http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
 #EXTINF:-1 CUID="QingHaiAnDuoWeiShi.cn" tvg-id="QingHaiAnDuoWeiShi.cn" tvg-chno="QingHaiAnDuoWeiShi.cn" tvg-name="青海安多卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/青海安多卫视.png" group-title="ws",青海安多卫视
