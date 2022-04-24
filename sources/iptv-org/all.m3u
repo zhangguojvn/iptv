@@ -44,8 +44,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
-http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSessionId=OTT16157620200202041417014267&fmt=ts2hls&u=45768392
-#EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 CUID="3" tvg-id="3" tvg-chno="3" tvg-name="CCTV-3" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/CCTV-3.png" group-title="cctv",CCTV-3
 http://117.169.120.140:8080/live/cctv-3/.m3u8
@@ -351,6 +349,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
 #EXTINF:-1 CUID="36" tvg-id="36" tvg-chno="36" tvg-name="辽宁卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/辽宁卫视.png" group-title="ws",辽宁卫视
 http://183.207.249.12/PLTV/4/224/3221225802/index.m3u8
+#EXTINF:-1 CUID="36" tvg-id="36" tvg-chno="36" tvg-name="辽宁卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/辽宁卫视.png" group-title="ws",辽宁卫视
+http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
 #EXTINF:-1 CUID="38" tvg-id="38" tvg-chno="38" tvg-name="山东卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山东卫视.png" group-title="ws",山东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1 CUID="38" tvg-id="38" tvg-chno="38" tvg-name="山东卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山东卫视.png" group-title="ws",山东卫视
