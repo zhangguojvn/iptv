@@ -27,6 +27,14 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
 http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
 #EXTINF:-1 CUID="29" tvg-id="29" tvg-chno="29" tvg-name="江苏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江苏卫视.png" group-title="ws",江苏卫视
 http://183.207.249.34/PLTV/4/224/3221227402/index.m3u8
+#EXTINF:-1 CUID="30" tvg-id="30" tvg-chno="30" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 CUID="30" tvg-id="30" tvg-chno="30" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 CUID="30" tvg-id="30" tvg-chno="30" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
+http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 CUID="30" tvg-id="30" tvg-chno="30" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
+http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
 #EXTINF:-1 CUID="31" tvg-id="31" tvg-chno="31" tvg-name="东方卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/东方卫视.png" group-title="ws",东方卫视
 http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 CUID="31" tvg-id="31" tvg-chno="31" tvg-name="东方卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/东方卫视.png" group-title="ws",东方卫视
@@ -190,21 +198,11 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 CUID="63" tvg-id="63" tvg-chno="63" tvg-name="延边卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/延边卫视.png" group-title="ws",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
-http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
-#EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
 http://117.169.120.140:8080/live/xizangstv/.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
 http://183.207.249.16/PLTV/3/224/3221225523/index.m3u8
-#EXTINF:-1 CUID="BeiJingWeiShi.cn" tvg-id="BeiJingWeiShi.cn" tvg-chno="BeiJingWeiShi.cn" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 CUID="BeiJingWeiShi.cn" tvg-id="BeiJingWeiShi.cn" tvg-chno="BeiJingWeiShi.cn" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 CUID="BeiJingWeiShi.cn" tvg-id="BeiJingWeiShi.cn" tvg-chno="BeiJingWeiShi.cn" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
-http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 CUID="BeiJingWeiShi.cn" tvg-id="BeiJingWeiShi.cn" tvg-chno="BeiJingWeiShi.cn" tvg-name="北京卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/北京卫视.png" group-title="ws",北京卫视
-http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
 #EXTINF:-1 CUID="HaHaXuanDong.cn" tvg-id="HaHaXuanDong.cn" tvg-chno="HaHaXuanDong.cn" tvg-name="哈哈炫动卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/哈哈炫动卫视.png" group-title="ws",哈哈炫动卫视
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 CUID="HaHaXuanDong.cn" tvg-id="HaHaXuanDong.cn" tvg-chno="HaHaXuanDong.cn" tvg-name="哈哈炫动卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/哈哈炫动卫视.png" group-title="ws",哈哈炫动卫视
