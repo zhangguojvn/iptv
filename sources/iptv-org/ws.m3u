@@ -75,8 +75,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
 #EXTINF:-1 CUID="36" tvg-id="36" tvg-chno="36" tvg-name="辽宁卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/辽宁卫视.png" group-title="ws",辽宁卫视
 http://183.207.249.12/PLTV/4/224/3221225802/index.m3u8
-#EXTINF:-1 CUID="36" tvg-id="36" tvg-chno="36" tvg-name="辽宁卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/辽宁卫视.png" group-title="ws",辽宁卫视
-http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
 #EXTINF:-1 CUID="38" tvg-id="38" tvg-chno="38" tvg-name="山东卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山东卫视.png" group-title="ws",山东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1 CUID="38" tvg-id="38" tvg-chno="38" tvg-name="山东卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/山东卫视.png" group-title="ws",山东卫视
@@ -207,6 +205,10 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 http://117.169.120.140:8080/live/xizangstv/.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
 http://183.207.249.16/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:-1 CUID="HaHaXuanDong.cn" tvg-id="HaHaXuanDong.cn" tvg-chno="HaHaXuanDong.cn" tvg-name="哈哈炫动卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/哈哈炫动卫视.png" group-title="ws",哈哈炫动卫视
+http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 CUID="HaHaXuanDong.cn" tvg-id="HaHaXuanDong.cn" tvg-chno="HaHaXuanDong.cn" tvg-name="哈哈炫动卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/哈哈炫动卫视.png" group-title="ws",哈哈炫动卫视
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 CUID="HaiNanWeiShi.cn" tvg-id="HaiNanWeiShi.cn" tvg-chno="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/海南卫视.png" group-title="ws",海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:-1 CUID="HaiNanWeiShi.cn" tvg-id="HaiNanWeiShi.cn" tvg-chno="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/海南卫视.png" group-title="ws",海南卫视
