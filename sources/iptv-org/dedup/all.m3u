@@ -74,7 +74,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1 CUID="50" tvg-id="50" tvg-chno="50" tvg-name="江西卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/江西卫视.png" group-title="ws",江西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 CUID="51" tvg-id="51" tvg-chno="51" tvg-name="吉林卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/吉林卫视.png" group-title="ws",吉林卫视
-http://stream4.jlntv.cn/test2/sd/live.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
 #EXTINF:-1 CUID="52" tvg-id="52" tvg-chno="52" tvg-name="内蒙古卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/内蒙古卫视.png" group-title="ws",内蒙古卫视
 http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
 #EXTINF:-1 CUID="53" tvg-id="53" tvg-chno="53" tvg-name="宁夏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/宁夏卫视.png" group-title="ws",宁夏卫视
@@ -95,6 +95,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 CUID="71" tvg-id="71" tvg-chno="71" tvg-name="西藏卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/西藏卫视.png" group-title="ws",西藏卫视
 http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
+#EXTINF:-1 CUID="HaHaXuanDong.cn" tvg-id="HaHaXuanDong.cn" tvg-chno="HaHaXuanDong.cn" tvg-name="哈哈炫动卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/哈哈炫动卫视.png" group-title="ws",哈哈炫动卫视
+http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 CUID="HaiNanWeiShi.cn" tvg-id="HaiNanWeiShi.cn" tvg-chno="HaiNanWeiShi.cn" tvg-name="海南卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/海南卫视.png" group-title="ws",海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:-1 CUID="NeiMengWeiShi.cn" tvg-id="NeiMengWeiShi.cn" tvg-chno="NeiMengWeiShi.cn" tvg-name="内蒙卫视" tvg-logo="https://zhangguojvn.github.io/iptv/static/tvlogo/内蒙卫视.png" group-title="ws",内蒙卫视
