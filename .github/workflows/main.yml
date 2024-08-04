@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+  workflow_dispatch:
   schedule:
     - cron:  '2 23 * * *' #update when 7:02(UTC +8)
 
